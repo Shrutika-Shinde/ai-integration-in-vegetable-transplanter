@@ -1,0 +1,6 @@
+PyQt5
+pyqtgraph
+openpyxl
+numpy
+opencv-python
+tensorflow
